@@ -28,7 +28,7 @@ npm run e2e
 # run all tests
 npm test
 ```
-##数据与存储
+## 数据与存储
 
 数据存储在本地localstorage中
 服务器正在开发
