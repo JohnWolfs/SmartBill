@@ -1,8 +1,10 @@
-# vue-world
+# Smart账本
 
-> A Vue.js project
+> 基于vue2.0的记账应用（UI布局仿照某IOS记账应用）
+> 使用了vuejs-templates/webpack
+> 图表使用百度echart
 
-## Build Setup
+## 安装和使用
 
 ``` bash
 # install dependencies
@@ -26,5 +28,8 @@ npm run e2e
 # run all tests
 npm test
 ```
+##数据与存储
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+数据存储在本地localstorage中
+服务器正在开发
+
