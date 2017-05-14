@@ -1,7 +1,7 @@
 # Smart账本
 
-> 基于vue2.0的记账应用（UI布局仿照某IOS记账应用）
-> 使用了vuejs-templates/webpack
+> 基于vue2.0的记账应用（UI布局仿照某IOS记账应用）<br/>
+> 使用了vuejs-templates/webpack<br/>
 > 图表使用百度echart
 
 ## 安装和使用
@@ -30,6 +30,6 @@ npm test
 ```
 ## 数据与存储
 
-数据存储在本地localstorage中
+数据存储在本地localstorage中<br/>
 服务器正在开发
 
