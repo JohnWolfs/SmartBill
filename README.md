@@ -1,3 +1,5 @@
+（---deprecated project---）
+
 # Smart账本
 
 > 基于vue2.0的记账应用（UI布局仿照某IOS记账应用）<br/>
